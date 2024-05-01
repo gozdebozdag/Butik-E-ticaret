@@ -1,0 +1,57 @@
+﻿@using BotuqieButik.data.Entitis
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<Product>
+<h1>Ürün Ekle</h1>
+
+<div class="container">
+    <div class="col-2 mt-2 text-end">
+        <a asp-controller="Product" asp-action="Create" class="btn btn-primary">
+            <i class="fa fa-plus"></i>
+            Ürün Ekle
+        </a>
+    </div>
+
+    <table class="table table-bordered mt-3">
+        <thead>
+
+            <tr>
+                <th class="bg-black text-white">
+                    Ürün ismi
+                </th>
+                <th class="bg-black text-white">
+                    Fiyatı
+                </th>
+                <th class="bg-black text-white">
+                    Stok
+                </th>
+                <th class="bg-black text-white">
+                    Kategori
+                </th>
+                <th class="bg-black text-white">
+                    İşlemler
+                </th>
+                
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name </td>
+                    <td>@item.Price</td>
+                    <td>@item.Stock</td>
+                    <td>ViewBag.CategoryId</td>
+                    <td>
+                        <a asp-controller="Product" asp-action="Update" asp-route-id="@item.Id" class="btn btn-secondary">Düzenle</a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+

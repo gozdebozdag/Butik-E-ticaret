@@ -1,0 +1,24 @@
+﻿@using BotuqieButik.data.Entitis
+@{
+    ViewData["Title"] = "Update";
+}
+
+@model Product
+<h1>Ürün Güncelleme</h1>
+
+<form class="container" method="post" asp-controller="Product" asp-action="Update">
+    <div class="mb-3">
+        <label class="form-label">Ürün ismi</label>
+        <input asp-for="Name" type="text" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Fiyat</label>
+        <input asp-for="Price" type="text" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Stok</label>
+        <input asp-for="Stock" type="text" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>

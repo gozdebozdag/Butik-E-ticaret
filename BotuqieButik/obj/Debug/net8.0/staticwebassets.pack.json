@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BotuqieButik.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BotuqieButik.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\alt-giyim-card.webp",
+      "PackagePath": "staticwebassets\\images\\alt-giyim-card.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\altgiyim1.webp",
+      "PackagePath": "staticwebassets\\images\\altgiyim1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\altgiyim2.webp",
+      "PackagePath": "staticwebassets\\images\\altgiyim2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\altgiyim3.webp",
+      "PackagePath": "staticwebassets\\images\\altgiyim3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\altgiyim4.webp",
+      "PackagePath": "staticwebassets\\images\\altgiyim4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\cart1.webp",
+      "PackagePath": "staticwebassets\\images\\cart1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\cart2.webp",
+      "PackagePath": "staticwebassets\\images\\cart2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\cart3.webp",
+      "PackagePath": "staticwebassets\\images\\cart3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\cart4.webp",
+      "PackagePath": "staticwebassets\\images\\cart4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\dis-giyim-card.jpg",
+      "PackagePath": "staticwebassets\\images\\dis-giyim-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\disgiyim1.webp",
+      "PackagePath": "staticwebassets\\images\\disgiyim1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\disgiyim2.webp",
+      "PackagePath": "staticwebassets\\images\\disgiyim2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\disgiyim3.webp",
+      "PackagePath": "staticwebassets\\images\\disgiyim3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\disgiyim4.webp",
+      "PackagePath": "staticwebassets\\images\\disgiyim4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\elbise-card.webp",
+      "PackagePath": "staticwebassets\\images\\elbise-card.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\kolu-desenli-tul-crop-57576760-sw1024sh1365.webp",
+      "PackagePath": "staticwebassets\\images\\kolu-desenli-tul-crop-57576760-sw1024sh1365.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\korseli-saten-crop-23013442-sw1024sh1365.webp",
+      "PackagePath": "staticwebassets\\images\\korseli-saten-crop-23013442-sw1024sh1365.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ozelfiyatlar1.webp",
+      "PackagePath": "staticwebassets\\images\\ozelfiyatlar1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ozelfiyatlar2.webp",
+      "PackagePath": "staticwebassets\\images\\ozelfiyatlar2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ozelfiyatlar3.webp",
+      "PackagePath": "staticwebassets\\images\\ozelfiyatlar3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ozelfiyatlar4.webp",
+      "PackagePath": "staticwebassets\\images\\ozelfiyatlar4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\slider1.png",
+      "PackagePath": "staticwebassets\\images\\slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\slider2.png",
+      "PackagePath": "staticwebassets\\images\\slider2.png"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\slider3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ustgiyim1.webp",
+      "PackagePath": "staticwebassets\\images\\ustgiyim1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ustgiyim2.webp",
+      "PackagePath": "staticwebassets\\images\\ustgiyim2.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ustgiyim3.webp",
+      "PackagePath": "staticwebassets\\images\\ustgiyim3.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\images\\ustgiyim4.webp",
+      "PackagePath": "staticwebassets\\images\\ustgiyim4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gozde\\Desktop\\BotuqieButik\\BotuqieButik\\BotuqieButik\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BotuqieButik.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BotuqieButik.props",
+      "PackagePath": "build\\BotuqieButik.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BotuqieButik.props",
+      "PackagePath": "buildMultiTargeting\\BotuqieButik.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BotuqieButik.props",
+      "PackagePath": "buildTransitive\\BotuqieButik.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

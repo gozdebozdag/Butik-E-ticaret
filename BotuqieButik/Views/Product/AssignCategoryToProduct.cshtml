@@ -1,0 +1,40 @@
+﻿@using BotuqieButik.data.Entitis
+
+
+@{
+    ViewData["Title"] = "AssignCategoryToProduct";
+}
+
+@*<h1>AssignCategoryToProduct</h1>
+
+@model ProductCategory
+
+<div class="container">
+    <form asp-controller="Product" asp-action="AssignCategoryToProduct" method="post">
+        <div class="mb-3">
+            <label for="browser">Ürün Seçimi Yapınız</label>
+            <input class="form-control" list="browsers" asp-for="ProductName" />
+            <span asp-validation-for="ProductName"></span>
+            <datalist id="browsers">
+                @foreach (var item in (List<Product>)ViewBag.Products)
+                {
+                    <option value="@item.Name"></option>
+                }
+            </datalist>
+        </div>
+
+        <div class="mb-3">
+            <label>Kategori</label>
+            <select class="form-control" asp-for="CategoryId">
+                <option value="" selected>Kategori Seçiniz</option>
+                @foreach (var item in (List<Category>)ViewBag.Categories)
+                {
+                    <option value="@item.Id">@item.Name </option>
+                }
+            </select>
+            <span asp-validation-for="CategoryId"></span>
+        </div>
+
+        <input class="btn btn-success" type="submit" value="Kaydet" />
+    </form>
+</div>*@

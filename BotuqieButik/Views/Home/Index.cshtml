@@ -1,0 +1,180 @@
+﻿@{
+    ViewData["Title"] = "Anasayfa";
+}
+<style>
+    .banner {
+        height: 5vh;
+        background: black;
+        color: white;
+        padding: 5px;
+        margin: 0;
+        font-size: 17px;
+    }
+</style>
+
+
+<div class="banner">
+    <marquee direction=right>
+        %40'A VARAN KIŞ İNDİRİMLERİ SENİ BEKLİYOR !
+        •
+        SANA ÖZEL EKSTRA %5 İNDİRİM %40'A VARAN KIŞ İNDİRİMLERİ SENİ BEKLİYOR !
+        •
+        SANA ÖZEL EKSTRA %5 İNDİRİM
+        %40'A VARAN KIŞ İNDİRİMLERİ SENİ BEKLİYOR !
+        •
+        SANA ÖZEL EKSTRA %5 İNDİRİM %40'A VARAN KIŞ İNDİRİMLERİ SENİ BEKLİYOR !
+        •
+        SANA ÖZEL EKSTRA %5 İNDİRİM
+    </marquee>
+</div>
+
+
+<section class="section1">
+    <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/images/slider1.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slider2.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slider3.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+</section>
+<hr>
+<section class="section2">
+    <div class="content">
+        <h2 class="section2-title">
+            Yeni Gelenler</h3>
+            <p class="section2-text">Her hafta yeni ürünleri sizler için derledik</p>
+            <div class="row row-cols-1 row-cols-md-4 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="images/cart1.webp" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Düğmeli Crop</h5>
+                            <p class="card-text">249.99 TL</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="images/cart2.webp" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Bel Detay Elbise</h5>
+                            <p class="card-text">299.99 TL</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="images/cart3.webp" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Büzgülü Elbise</h5>
+                            <p class="card-text">399.99 TL</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="images/cart4.webp" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Payetli Elbise</h5>
+                            <p class="card-text">459.99 TL</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</section>
+
+<hr>
+
+<section class="section3">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col">
+            <a asp-area="" asp-controller="Home" asp-action="ustgiyim">
+                <div class="card h-100">
+                    <div class="card bg-dark text-white">
+                        <img class="card-img" src="images/elbise-card.webp" alt="Card image">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title2">Elbise</h5>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a asp-area="" asp-controller="Home" asp-action="altgiyim">
+                <div class="card h-100">
+                    <div class="card bg-dark text-white">
+                        <img class="card-img" src="images/alt-giyim-card.webp" alt="Card image">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title2">Alt Giyim</h5>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a asp-area="" asp-controller="Home" asp-action="disgiyim">
+                <div class="card h-100">
+                    <div class="card bg-dark text-white">
+                        <img class="card-img" src="images/dis-giyim-card.jpg" alt="Card image">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title2">Dış Giyim</h5>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+</section>
+<hr>
+<br>
+<h1 class="title-ref">İletişim</h1>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <br>
+            <p class="i-text"><i class='bx bx-send '></i> botuqie@outlook.com</p>
+            <p class="i-text"><i class='bx bxs-phone i-text'></i> 05316512748</p>
+            <div class="icons-iletisim">
+                <a href="https://outlook.live.com/mail/about/index_en.html"><i class='bx bxl-gmail'></i></a>
+                <a href="https://www.google.com/webhp?hl=tr&sa=X&ved=0ahUKEwj51pu1tO-DAxWYafEDHWDVBFEQPAgJ">
+                    <i class='bx bxs-phone'></i>
+                </a>
+                <a href="https://www.google.com/webhp?hl=tr&sa=X&ved=0ahUKEwj51pu1tO-DAxWYafEDHWDVBFEQPAgJ">
+                    <i class='bx bxl-whatsapp'></i>
+                </a>
+            </div>
+        </div>
+        <div class="col">
+            <form>
+                <input type="text" name="İsim Soyisim" placeholder="İsminiz" required>
+                <input type="email" name="E-mail" placeholder="E-mail" required>
+                <textarea name="Message" rows="6" placeholder="Mesaj"></textarea>
+                <button class="button-30" role="button">Gönder</button>
+            </form>
+        </div>
+    </div>
+    <br>
+
+    <hr>
+
+
+

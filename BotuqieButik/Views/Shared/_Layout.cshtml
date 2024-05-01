@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BotuqieButik</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BotuqieButik.styles.css" asp-append-version="true" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <div class="logo">
+                        Boutique
+                        <img src="~/images/logo2.png" alt="" srcset="">
+                    </div>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ustgiyim">Üst Giyim</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="altgiyim">Alt Giyim</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="disgiyim">Dış Giyim</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ozelfiyatlar">Özel Fiyatlar</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="yenigelenler">Yeni Gelenler</a>
+                    </ul>
+                    <div class="icons">
+                        <div class="dropdown">
+                            <button class="dropbtn"><a class="icon-link text-dark" asp-area="" asp-controller="Account" asp-action="Login"><i class='bx bx-user' id="Login-button"></i></a></button>
+                        <div class="dropdown-content">
+                            <a class="icon-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Giriş Yap</a>
+                            <a class="icon-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">Üye Ol</a>
+                            <a class="icon-link text-dark" asp-area="" asp-controller="Account" asp-action="LogOut">Çıkış Yap</a>
+                        </div>
+                        </div>
+                        <a class="icon-link text-dark" asp-area="" asp-controller="Home" asp-action="sepet"><i class='bx bxs-shopping-bags' id="cart-shop"></i></a>
+                    </div>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+
+        </main>
+    </div>
+
+    <footer>
+        <div class="container ">
+            <div class="footer-container container grid">
+
+                <div class="footer_content">
+                    <h3 class="footer-title">Hakkında</h3>
+
+                    <ul class="footer-links">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="iletisim">İletişim</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="GizlilikSozlesmesi">Gizlilik Sözleşmesi</a></li>
+                    </ul>
+                </div>
+                <div class="footer_content">
+                    <h3 class="footer-title">Hızlı Erişim</h3>
+
+                    <ul class="footer-links">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Hesabim">Hesabım</a></li>
+                        <li><a a asp-area="" asp-controller="Home" asp-action="uyelik">Üyelik</a></li>
+                        <li><a a asp-area="" asp-controller="Home" asp-action="iptal">İptal & İade</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer_content">
+                    <h3 class="footer-title">Bizi Takip Edin</h3>
+
+                    <div class="footer_social">
+                        <a href="#" class="footer_social-link"><i class="bx bxl-facebook"></i></a>
+                        <a href="#" class="footer_social-link"><i class="bx bxl-instagram-alt"></i></a>
+                        <a href="#" class="footer_social-link"><i class="bx bxl-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <span class="footer-copy">Bu site Gözde Bozdağ e-ticaret sistemleri ile hazırlanmıştır.</span>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
